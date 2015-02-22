@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Primera entrada en el blog, por fin"
 date: 2015-02-22
