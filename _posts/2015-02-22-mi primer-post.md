@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: "Este es mi primer post"
+title: "Primera entrada en el blog"
 date: 2015-02-22
 ---
 
-Este es el cuento de la vida de una flor amarilla.
+Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
